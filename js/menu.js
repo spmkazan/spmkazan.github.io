@@ -1,0 +1,1 @@
+"use strict";var iconMenu=document.querySelector(".menu__icon"),menu=document.querySelector(".nav-list");function showMenu(){menu.classList.contains("responsive")?menu.classList.remove("responsive"):menu.classList.add("responsive")}iconMenu.addEventListener("click",showMenu);

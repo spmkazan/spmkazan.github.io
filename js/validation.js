@@ -1,0 +1,1 @@
+"use strict";function validationEmpty(){var i=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{},r=[];for(var t in i)if(""===i[t]){r.push("Заполните все поля.");break}return r}
