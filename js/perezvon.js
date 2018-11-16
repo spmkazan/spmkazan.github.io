@@ -1,0 +1,1 @@
+"use strict";var btn=document.querySelector("#myBtn"),showForm=function(){document.querySelector(".modal__request-call").style.display="block"};btn.addEventListener("click",showForm);
